@@ -46,24 +46,3 @@ quiz-game/
 └── README.md             # Project documentation
 ```
 
-
-### Key Enhancements:
-1. **Professional Branding**: Explicit StaxTech internship mention
-2. **Technical Depth**: Added architecture diagram and code snippets
-3. **Performance Metrics**: Shows optimization efforts
-4. **Badges**: Interactive shields for demo/contact
-5. **Structured Documentation**: Clear sections for every aspect
-
-### How to Use:
-1. Replace placeholder links with your actual URLs
-2. Add real screenshots/GIFs (use [ScreenToGif](https://www.screentogif.com/) for demo)
-3. Update performance metrics after Lighthouse testing
-4. Include your actual contact information
-
-This README demonstrates:
-- Professional-grade documentation skills
-- Technical competency (code structure/architecture)
-- Attention to detail (performance metrics)
-- Project ownership (clear licensing)
-
-Perfect for showcasing to StaxTech as proof of your front-end capabilities!

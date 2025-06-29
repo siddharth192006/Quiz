@@ -46,3 +46,29 @@ quiz-game/
 └── README.md             # Project documentation
 ```
 
+# BrainMaster Quiz Challenge 🧠🏆
+
+*Professional quiz platform developed during my StaxTech Front-End Developer Internship*
+
+## 🌟 Highlights
+- **4 Dynamic Categories**: General Knowledge, Science, History, Sports
+- **Timed Challenges**: 30-second limit per question
+- **Smart Scoring**: Instant results with performance analytics
+- **Responsive Design**: Flawless on all devices (Mobile/Tablet/Desktop)
+- **Interactive UI**: Animated transitions and feedback
+
+## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</div>
+
+## 🎮 How It Works
+1. **Select** your preferred category
+2. **Answer** 10 timed questions
+3. **Review** detailed performance analysis
+4. **Compete** with friends for high scores!
+
+

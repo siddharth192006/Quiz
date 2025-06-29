@@ -370,8 +370,6 @@ body {
   background: rgba(247, 37, 133, 0.1);
   color: var(--danger);
 }
-
-/* Responsive Design */
 @media (max-width: 768px) {
   body {
     padding: var(--space-sm);
@@ -401,7 +399,6 @@ body {
   }
 }
 
-/* Animations */
 @keyframes fadeIn {
   from { opacity: 0; transform: translateY(10px); }
   to { opacity: 1; transform: translateY(0); }
@@ -421,7 +418,6 @@ body {
   animation: pulse 1s infinite;
 }
 
-/* Micro-interactions */
 .option-btn {
   transform-origin: center;
 }
@@ -434,7 +430,6 @@ body {
   transform: scale(0.98);
 }
 
-/* Focus States */
 button:focus, .option-btn:focus {
   outline: 2px solid var(--primary-light);
   outline-offset: 2px;

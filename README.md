@@ -28,8 +28,6 @@
 | **Fonts** | Google Fonts (Inter) |
 | **Version Control** | Git/GitHub |
 
-## 🚀 Live Deployment
-[![Vercel](https://www.linkedin.com/posts/siddharth-deshmukh-b89a72257_activity-7345151590040801280-gDU4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9W8xkBR7Ulrkg5eNMPZTTfB8SOJFvIhq8)](https://siddharth192006.github.io/Quiz/)
 
 ## 📂 Code Structure
 ```bash
@@ -46,12 +44,26 @@ quiz-game/
 │   └── fonts/            # Custom typography
 ├── .gitignore            # Version control config
 └── README.md             # Project documentation
+```
 
-function loadQuestion() {
-  const current = questions[currentIndex];
-  questionEl.textContent = current.question;
-  optionsEl.innerHTML = current.options.map(opt => 
-    `<button class="option" data-answer="${opt}">${opt}</button>`
-  ).join('');
-  startTimer();
-}
+
+### Key Enhancements:
+1. **Professional Branding**: Explicit StaxTech internship mention
+2. **Technical Depth**: Added architecture diagram and code snippets
+3. **Performance Metrics**: Shows optimization efforts
+4. **Badges**: Interactive shields for demo/contact
+5. **Structured Documentation**: Clear sections for every aspect
+
+### How to Use:
+1. Replace placeholder links with your actual URLs
+2. Add real screenshots/GIFs (use [ScreenToGif](https://www.screentogif.com/) for demo)
+3. Update performance metrics after Lighthouse testing
+4. Include your actual contact information
+
+This README demonstrates:
+- Professional-grade documentation skills
+- Technical competency (code structure/architecture)
+- Attention to detail (performance metrics)
+- Project ownership (clear licensing)
+
+Perfect for showcasing to StaxTech as proof of your front-end capabilities!

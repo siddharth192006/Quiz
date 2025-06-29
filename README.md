@@ -1,6 +1,6 @@
 # Advanced Quiz Web Application 🧠🎯
 
-![Quiz App Demo](https://i.imgur.com/quiz-demo-gif.gi)  
+![Quiz App Demo](https://i.imgur.)  
 *Developed as part of my Front-End Developer Internship selection process at StaxTech*
 
 ## 🌟 Key Features
